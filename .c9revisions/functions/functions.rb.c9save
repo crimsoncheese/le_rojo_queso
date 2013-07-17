@@ -1,0 +1,2 @@
+{"ts":1374024704753,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1374024715430,"patch":[[{"diffs":[[1,"class FormatDate\n    def initialize(value1)\n\t\t@value1 = value1\n\tend\n\t\n\tdef self.format(date)\n\t\tDate.strptime(date, \"%m/%d/%Y\").strftime(\"%Y-%m-%d\")\n\tend\n\t\n\tdef newMethod\n\t\tDate.strptime(@value1, \"%m/%d/%Y\").strftime(\"%Y-%m-%d\")\n\tend\nend\t"]],"start1":0,"start2":0,"length1":0,"length2":237}]],"length":237,"saved":false}

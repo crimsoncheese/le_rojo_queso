@@ -1,0 +1,3 @@
+{"ts":1374029098825,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"*.gem\n*.rbc\n.bundle\n.config\ncoverage\nInstalledFiles\nlib/bundler/man\npkg\nrdoc\nspec/reports\ntest/tmp\ntest/version_tmp\ntmp\n\n# YARD artifacts\n.yardoc\n_yardoc\ndoc/\n"]],"start1":0,"start2":0,"length1":0,"length2":159}]],"length":159}
+{"contributors":[],"silentsave":false,"ts":1374029173003,"patch":[[{"diffs":[[0,"oc\ndoc/\n"],[1,"*.csv\n"]],"start1":151,"start2":151,"length1":8,"length2":14}]],"length":165,"saved":false}
+{"ts":1374029487186,"patch":[[{"diffs":[[0,"/\n*.csv\n"],[1,"backups/*.csv"]],"start1":157,"start2":157,"length1":8,"length2":21}]],"length":178,"saved":false}

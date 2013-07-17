@@ -1,0 +1,5 @@
+mysql:
+  host: 127.3.9.1
+  username: crimsoncheese
+  passsword: 
+  database: ruby_class
